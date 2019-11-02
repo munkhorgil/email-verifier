@@ -1,0 +1,26 @@
+{
+  "name": "email-verifier",
+  "version": "1.0.0",
+  "description": "Verify user's email service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munkhorgil/email-verifier.git"
+  },
+  "keywords": [
+    "golang",
+    "go",
+    "email",
+    "verify",
+    "servie"
+  ],
+  "author": "Munkh-Orgil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munkhorgil/email-verifier/issues"
+  },
+  "homepage": "https://github.com/munkhorgil/email-verifier#readme"
+}
